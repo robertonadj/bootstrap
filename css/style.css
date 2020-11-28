@@ -1,0 +1,30 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: steelblue;
+}
+
+.quem-somos {
+    padding-bottom: 50px;
+}
+
+#time {
+    padding-top: 30px;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: steelblue;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+}
